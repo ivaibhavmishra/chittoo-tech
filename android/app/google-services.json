@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795829679886",
+    "project_id": "chitto-tech-3ecf9",
+    "storage_bucket": "chitto-tech-3ecf9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795829679886:android:170a8b233d3d4f0d82495f",
+        "android_client_info": {
+          "package_name": "com.example.chitoo_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5_KfFqRcl5xK4amh3YTqEIXV3TyF5qS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
